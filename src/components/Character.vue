@@ -67,6 +67,7 @@ export default {
 <style lang="scss">
 .fondomodal {
   background-color:  rgb(235, 245, 246);
+  font-family: 'Dancing Script', cursive;
   //background-image: url('../assets/centro.png');
 }
 .boton {
@@ -74,4 +75,5 @@ export default {
   color: rgb(255, 255, 255);
   background-color: rgb(6, 113, 128);
 }
+
 </style>
